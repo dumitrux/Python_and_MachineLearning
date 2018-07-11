@@ -1,0 +1,8 @@
+Hoy aprenderemos a usar la librería pandas.
+
+Seguiremos las transparencias a modo de guía: https://slides.com/hermesvalenciano/python-tools-for-machine-learning-3#/
+
+Las notebooks que usaremos para ejemplificar cada caso están numeradas.
+
+Por último, dejaremos algo de tiempo al final para consolidación de conceptos con un ejercicio que se puede hacer individual o por parejas.
+

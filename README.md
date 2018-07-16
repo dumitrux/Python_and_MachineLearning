@@ -1,0 +1,31 @@
+# Python_and_MachineLearning
+- [D1](https://github.com/dumitrux/Python_and_MachineLearning/tree/master/D1/Practica)
+  - Data types
+  - Lists
+  - Dictionaries
+  - Tuples
+  - Sets
+  - Comparison and logic operators
+  - if, elif, else Statements
+  - for and while Loops
+  - Functions
+  - Lambda expressions
+  - map and filter
+  - methods
+- [D2](https://github.com/dumitrux/Python_and_MachineLearning/tree/master/D2/Practica)
+  - NumPy
+    - Arrays
+    - Built-in Methods
+    - Random
+    - Array Attributes and Methods
+    - Indexing and Selection
+    - Indexing a 2D array (matrix)
+    - Operations
+- [D3]()
+- [D4]()
+- [D5]()
+- [D6]()
+- [D7]()
+- [D8]()
+- [D9]()
+- [D10]()
